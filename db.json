@@ -1,193 +1,259 @@
 {
   "bikes": [
     {
-      "bikeId": "001",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg",
+      "id": 1,
+      "bikeId": "ABS-001",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "002",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg",
+      "id": 2,
+      "bikeId": "ABS-002",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "003",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg",
+      "id": 3,
+      "bikeId": "ABS-003",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
-      "model": "Neo 2",
-      "price": "100 "
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "004",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg",
+      "id": 4,
+      "bikeId": "ABS-004",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     },
     {
-      "bikeId": "005",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike005.jpg",
+      "id": 5,
+      "bikeId": "ABS-005",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "006",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike006.jpg",
+      "id": 6,
+      "bikeId": "ABS-006",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "007",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike007.jpg",
+      "id": 7,
+      "bikeId": "ABS-007",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
-      "model": "Neo 2",
-      "price": "100 "
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "008",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike008.jpg",
+      "id": 8,
+      "bikeId": "ABS-008",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     },
     {
-      "bikeId": "009",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike009.jpg",
+      "id": 9,
+      "bikeId": "ABS-009",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "010",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike010.jpg",
+      "id": 10,
+      "bikeId": "ABS-010",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "011",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike011.jpg",
+      "id": 11,
+      "bikeId": "ABS-011",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
-      "model": "Neo 2",
-      "price": "100 "
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "012",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike012.jpg",
+      "id": 12,
+      "bikeId": "ABS-012",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     },
     {
-      "bikeId": "013",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg",
-      "maker": "Banshee",
-      "model": "Rune",
-      "price": "200 "
-    },
-    {
-      "bikeId": "014",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg",
+      "id": 13,
+      "bikeId": "ABS-013",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "015",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg",
+      "id": 14,
+      "bikeId": "ABS-014",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "016",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg",
+      "id": 15,
+      "bikeId": "ABS-015",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
-      "model": "Neo 2",
-      "price": "100 "
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "017",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg",
+      "id": 16,
+      "bikeId": "ABS-016",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     },
     {
-      "bikeId": "018",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike005.jpg",
+      "id": 17,
+      "bikeId": "ABS-017",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "019",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike006.jpg",
+      "id": 18,
+      "bikeId": "ABS-018",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "020",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike007.jpg",
+      "id": 19,
+      "bikeId": "ABS-019",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
-      "model": "Neo 2",
-      "price": "100 "
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "021",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike008.jpg",
+      "id": 20,
+      "bikeId": "ABS-020",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     },
     {
-      "bikeId": "022",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike009.jpg",
+      "id": 21,
+      "bikeId": "ABS-021",
+      "title": "json-server",
       "maker": "Argon18",
       "model": "Gallium Pro Disc",
-      "price": "500"
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
     },
     {
-      "bikeId": "023",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike010.jpg",
+      "id": 22,
+      "bikeId": "ABS-022",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "600 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "024",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike011.jpg",
+      "id": 23,
+      "bikeId": "ABS-023",
+      "title": "json-server",
+      "maker": "Aquila Cyclest",
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
+    },
+    {
+      "id": 24,
+      "bikeId": "ABS-024",
+      "title": "json-server",
+      "maker": "Banshee",
+      "model": "Rune",
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
+    },
+    {
+      "id": 25,
+      "bikeId": "ABS-025",
+      "title": "json-server",
+      "maker": "Argon18",
+      "model": "Gallium Pro Disc",
+      "price": 200,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg"
+    },
+    {
+      "id": 26,
+      "bikeId": "ABS-026",
+      "title": "json-server",
       "maker": "Aquila Cyclest",
       "model": "Neo 2",
-      "price": "100 "
+      "price": 100,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike002.jpg"
     },
     {
-      "bikeId": "025",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike012.jpg",
-      "maker": "Banshee",
-      "model": "Rune",
-      "price": "200 "
+      "id": 27,
+      "bikeId": "ABS-027",
+      "title": "json-server",
+      "maker": "Aquila Cyclest",
+      "model": "Neo 5",
+      "price": 500,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike003.jpg"
     },
     {
-      "bikeId": "026",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg",
+      "id": 28,
+      "bikeId": "ABS-028",
+      "title": "json-server",
       "maker": "Banshee",
       "model": "Rune",
-      "price": "200 "
-    },
-    {
-      "bikeId": "027",
-      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike001.jpg",
-      "maker": "Banshee",
-      "model": "Rune",
-      "price": "200 "
+      "price": 400,
+      "photoPath": "https://raw.githubusercontent.com/aplokwn/AWS_JSON/main/bikes/bike004.jpg"
     }
-  ]
+  ],
+  "profile": {
+    "name": "user"
+  }
 }
